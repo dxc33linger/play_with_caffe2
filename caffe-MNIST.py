@@ -1,3 +1,14 @@
+'''
+05/2020
+
+This code comes from https://caffe2.ai/docs/tutorial-MNIST.html.
+I transfer the Jupyter Notebook to python file.
+
+
+'''
+
+
+
 from __future__ import absolute_import
 from __future__ import division
 from __future__ import print_function
